@@ -4,6 +4,4 @@
 ##### yarn add discord.js
 ##### pnpm add discord.js
 #### Create keys, namely : TOKEN(.env), CLIENT_ID(.env), GUILD_ID(.env)
-##### deploy by ```javascript
-const TOKEN = process.env['TOKEN'];
-```
+##### deploy by `const TOKEN = process.env['TOKEN'];`
